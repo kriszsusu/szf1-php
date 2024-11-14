@@ -1,7 +1,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <img src="cat-throwing-brick.gif" width="20%">
+      <img src="cat-blinking.gif" width="20%">
     </summary>
   </ul>
 </div>
