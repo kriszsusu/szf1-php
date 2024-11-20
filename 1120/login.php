@@ -1,7 +1,6 @@
 <?php
 
-    // I am Proto,
-    // Protecting security is my motto
+    // I am Proto, your security is my Motto
     $users = [
         ["admin", "Admin123"],
         ["libaskodo", "Bl4h4j:3"],
