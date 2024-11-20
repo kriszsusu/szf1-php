@@ -35,6 +35,7 @@
                     
                     $_SESSION['username'] = $_POST['username'];
                     if (!is_null($_POST['remember'])) setcookie("username", $username, time() + 3600 * 24 * 7, "/"); // 7 nap (?)
+                    // amúgy tudom hogy ezt simán át lehet írni devtoolsban, de egy ilyen oldalon szerintem nincs jelentőssége
 
                     header('Location: profile.php');
                     exit();
